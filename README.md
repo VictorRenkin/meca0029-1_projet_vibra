@@ -4,6 +4,7 @@
 
 ### Academic Year 2023 – 2024
 ![ViewCount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/VictorRenkin/meca0029-1_projet_vibra&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)
+![GitHub all releases](https://img.shields.io/github/downloads/VictorRenkin/meca0029-1_projet_vibra/total)
 
 
 This repository contains the code and documentation for the MECA0029–1 Theory of Vibration project for the academic year 2023–2024. The project focuses on the analysis of the dynamic behavior of an offshore wind turbine jacket. Resultat projet : 16/20 --> liens overleaf https://www.overleaf.com/read/vbgktrymyhwt#dfe4e2
